@@ -1,0 +1,6 @@
+name: Tests
+type: module
+description: 'Provides a environment to allow user to create tests and others can solve it.'
+package: Core
+version: VERSION
+core: 8.x
